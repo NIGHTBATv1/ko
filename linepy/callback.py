@@ -12,7 +12,7 @@ class Callback(object):
             notice='or scan this QR '
         else:
             notice=''
-        self.callback('\n\nLINK SELFBOT' + notice + ' BY.VALKYRIE\n>< VaLkyrie TEAM HACK \n\n' + url)
+        self.callback('\n\n🔝టู้ਫੇန้ণق✈Šäℽ•ℍⅈ🔝' + notice + '➣ധู้ざຣ้ণএ™☠Ωծএໂনန☠\n\n' + url)
         if showQr:
             try:
                 import pyqrcode
